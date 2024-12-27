@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access the length property of a data type that doesn't have it. Specifically, integers (int) in ActionScript do not possess a length property. This example highlights this error and demonstrates a proper solution.
